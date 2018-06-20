@@ -158,8 +158,6 @@ est
 un
 poème\ldots
 {}}''
-(Troyat:
-371--73).
 \@endanenote 
 \@doanenote {3}
 macro:->No
@@ -196,18 +194,18 @@ personnage
 poétique
 dans
 l'Histore
-Russe.(\ldots
+Russe.
+(\ldots
 {})
 Envie
 moi
 les
-oevres
+œvres
 de
 Lebrun,
 odes,
 elegies,
-etc\ldots
-{}.
+etc.
 (\ldots
 {})
 \emph
@@ -215,8 +213,7 @@ etc\ldots
 de
 Fouché,
 Sismondi}
-(
-Littérature),
+(Littérature),
 Schlegel
 (Dramaturgie)\ldots
 {}
@@ -237,7 +234,7 @@ Mouraviev}.
 La
 \emph
 {Bible}!
-la
+La
 \emph
 {Bible}!
 Mais
@@ -257,7 +254,7 @@ Harold},
 Lamartine\ldots
 {}
 les
-oeuvres
+œuvres
 dramatiques
 de
 Schiller,
@@ -269,18 +266,9 @@ et
 Le
 Courier
 de
-Siberie''.(Idem,
-ibidem).}
+Siberie''.}
 \@endanenote 
 \@doanenote {4}
-macro:->Fiódor
-Dostoiévski,
-``Discurso
-sobre
-Púchkin'',
-1880.
-\@endanenote 
-\@doanenote {5}
 macro:->Epígrafe
 do
 segundo
@@ -307,20 +295,6 @@ termo,
 significa
 ``rusticidade'').
 \@endanenote 
-\@doanenote {6}
-macro:->\emph
-{Recordações
-da
-casa
-dos
-mortos},
-Ed.
-Alexandria,
-2006.
-\@endanenote 
-\@doanenote {7}
-macro:->Idem.
-\@endanenote 
 \enotedivision
 {\subsection
 }{Algumas
@@ -332,23 +306,6 @@ e
 obra
 de
 Dostoiévski}
-\@doanenote {8}
-macro:->Dostoiévski,
-Fiodor.
-\emph
-{O
-idiota}.
-Trad.
-Paulo
-Bezerra.
-São
-Paulo:
-Editora
-34,
-2002,
-pp.
-107-108.
-\@endanenote 
 \enotedivision
 {\subsection
 }{O
@@ -359,7 +316,7 @@ e
 {Os
 irmãos
 Karamázov}}
-\@doanenote {9}
+\@doanenote {5}
 macro:->Trecho
 de
 ``O
@@ -421,7 +378,7 @@ Conde
 Liev
 Nikoláievich
 Tolstói}
-\@doanenote {10}
+\@doanenote {6}
 macro:->Os
 curadores
 da
@@ -468,7 +425,7 @@ nas
 \emph
 {Cartilhas.}
 \@endanenote 
-\@doanenote {11}
+\@doanenote {7}
 macro:->Cf.
 Léon
 Tolstoï,
@@ -490,7 +447,7 @@ Brossard,
 Paris,
 l928.
 \@endanenote 
-\@doanenote {12}
+\@doanenote {8}
 macro:->4.
 Trecho
 da
@@ -517,7 +474,7 @@ Salomon,
 {op.
 cit.}
 \@endanenote 
-\@doanenote {13}
+\@doanenote {9}
 macro:->5.
 Refiro-me,
 em
@@ -568,7 +525,7 @@ quadrinhos}
 }{Tolstoismo
 e
 hinduísmo}
-\@doanenote {14}
+\@doanenote {10}
 macro:->No
 original:
 \emph
@@ -731,7 +688,7 @@ dans
 sa
 perfection.}
 \@endanenote 
-\@doanenote {15}
+\@doanenote {11}
 macro:->Referido
 por
 Górki,
@@ -754,7 +711,7 @@ russo}
 Tchekhov
 a
 Pirandello}
-\@doanenote {16}
+\@doanenote {12}
 macro:->SCHELER,
 Max.
 \emph
@@ -767,7 +724,7 @@ Paris:
 Payot,
 1971.
 \@endanenote 
-\@doanenote {17}
+\@doanenote {13}
 macro:->Cf.,
 FREUD,
 Sigmund.
@@ -786,7 +743,7 @@ Nueva,
 Madrid,
 1968.
 \@endanenote 
-\@doanenote {18}
+\@doanenote {14}
 macro:->Cf.
 AVILOVA,
 Lydia.
@@ -810,7 +767,7 @@ agosto-setembro
 de
 1954.
 \@endanenote 
-\@doanenote {19}
+\@doanenote {15}
 macro:->Cf.
 Marie
 Anne
@@ -825,7 +782,7 @@ in
 \emph
 {cit}.
 \@endanenote 
-\@doanenote {20}
+\@doanenote {16}
 macro:->Cf.
 A.
 Bosi
@@ -844,7 +801,7 @@ USP
 em
 1964.
 \@endanenote 
-\@doanenote {21}
+\@doanenote {17}
 macro:->\emph
 {Apud}
 L.
@@ -861,6 +818,27 @@ Italia,
 Firenze,
 1970.
 \@endanenote 
+\@doanenote {18}
+macro:->\emph
+{Idem,
+ibidem}.
+\@endanenote 
+\@doanenote {19}
+macro:->\emph
+{Idem,
+ibidem.}
+\@endanenote 
+\@doanenote {20}
+macro:->\emph
+{Idem,
+ibidem.
+}
+\@endanenote 
+\@doanenote {21}
+macro:->\emph
+{Idem,
+ibidem.}
+\@endanenote 
 \@doanenote {22}
 macro:->\emph
 {Idem,
@@ -869,30 +847,9 @@ ibidem}.
 \@doanenote {23}
 macro:->\emph
 {Idem,
-ibidem.}
+ibidem}.
 \@endanenote 
 \@doanenote {24}
-macro:->\emph
-{Idem,
-ibidem.
-}
-\@endanenote 
-\@doanenote {25}
-macro:->\emph
-{Idem,
-ibidem.}
-\@endanenote 
-\@doanenote {26}
-macro:->\emph
-{Idem,
-ibidem}.
-\@endanenote 
-\@doanenote {27}
-macro:->\emph
-{Idem,
-ibidem}.
-\@endanenote 
-\@doanenote {28}
 macro:->Cf.
 J.
 K.
@@ -938,7 +895,7 @@ primitivo
 --
 sobre
 Górki}
-\@doanenote {29}
+\@doanenote {25}
 macro:->Obras
 Completas
 V
@@ -953,7 +910,7 @@ Akal
 }{Encontro
 de
 andarilhos}
-\@doanenote {30}
+\@doanenote {26}
 macro:->Devo
 esta
 informação
@@ -962,7 +919,7 @@ Professor
 Boris
 Shnaiderman.
 \@endanenote 
-\@doanenote {31}
+\@doanenote {27}
 macro:->As
 citações
 e
@@ -1029,7 +986,7 @@ Verlag,
 München,
 1971.
 \@endanenote 
-\@doanenote {32}
+\@doanenote {28}
 macro:->*Texto
 apresentado
 em
@@ -1068,7 +1025,7 @@ Civilização
 Brasileira,
 1990.
 \@endanenote 
-\@doanenote {33}
+\@doanenote {29}
 macro:->\versal
 {BARROS},
 Manuel.
@@ -1076,7 +1033,7 @@ Manuel.
 p.
 310.
 \@endanenote 
-\@doanenote {34}
+\@doanenote {30}
 macro:->\versal
 {KHLÉBNIKOV},
 Velimir.
@@ -1091,7 +1048,7 @@ L'Age
 d'Home.
 1970.
 \@endanenote 
-\@doanenote {35}
+\@doanenote {31}
 macro:->De
 acordo
 com
@@ -1286,7 +1243,7 @@ of
 unnatural
 intercourse''.}
 \@endanenote 
-\@doanenote {36}
+\@doanenote {32}
 macro:->\versal
 {BARROS},
 1990,
@@ -1295,7 +1252,7 @@ pp.
 334,
 342.
 \@endanenote 
-\@doanenote {37}
+\@doanenote {33}
 macro:->\versal
 {KHLÉBNIKOV},
 Velimir.
@@ -1312,7 +1269,7 @@ d'Homme.
 p.
 47
 \@endanenote 
-\@doanenote {38}
+\@doanenote {34}
 macro:->\versal
 {BARROS},
 2010,
@@ -1321,7 +1278,7 @@ p.
 244,
 315.
 \@endanenote 
-\@doanenote {39}
+\@doanenote {35}
 macro:->\versal
 {KHLÉBNIKOV},
 Velimir.
@@ -1361,7 +1318,7 @@ Pissátel',
 p.
 27.
 \@endanenote 
-\@doanenote {40}
+\@doanenote {36}
 macro:->\versal
 {KHLÉBNIKOV},
 Velimir.
@@ -1417,21 +1374,21 @@ e
 \emph
 {viés}.)
 \@endanenote 
-\@doanenote {41}
+\@doanenote {37}
 macro:->\versal
 {BARROS},
 2010,
 p.
 331.
 \@endanenote 
-\@doanenote {42}
+\@doanenote {38}
 macro:->\versal
 {BARROS},
 2010,
 p.
 328.
 \@endanenote 
-\@doanenote {43}
+\@doanenote {39}
 macro:->\versal
 {CAMPOS},
 Augusto
@@ -1463,14 +1420,14 @@ Haroldo
 de
 Campos).
 \@endanenote 
-\@doanenote {44}
+\@doanenote {40}
 macro:->\versal
 {BARROS},
 2010,
 p.
 215.
 \@endanenote 
-\@doanenote {45}
+\@doanenote {41}
 macro:->\versal
 {KHLÉBNIKOV},
 Velimir.
@@ -1527,13 +1484,13 @@ e
 Boris
 Schnaiderman.
 \@endanenote 
-\@doanenote {46}
+\@doanenote {42}
 macro:->\versal
 {BARROS},
 2010,
 p.211-212
 \@endanenote 
-\@doanenote {47}
+\@doanenote {43}
 macro:->\versal
 {KHLÉBNIKOV},
 Velimir.
@@ -1571,7 +1528,7 @@ p.6.
 (Tradução
 nossa).
 \@endanenote 
-\@doanenote {48}
+\@doanenote {44}
 macro:->\versal
 {KHLÉBNIKOV},
 Velimir.
@@ -1607,14 +1564,14 @@ Pissátel',
 1990,
 p.20.
 \@endanenote 
-\@doanenote {49}
+\@doanenote {45}
 macro:->\versal
 {BARROS},
 2010,
 p.
 216.
 \@endanenote 
-\@doanenote {50}
+\@doanenote {46}
 macro:->Nova
 Antologia
 \emph
@@ -1631,14 +1588,14 @@ e
 Boris
 Schnaiderman)
 \@endanenote 
-\@doanenote {51}
+\@doanenote {47}
 macro:->\versal
 {BARROS},
 2010,
 p.
 221.
 \@endanenote 
-\@doanenote {52}
+\@doanenote {48}
 macro:->Nova
 Antologia
 \emph
@@ -1652,7 +1609,7 @@ Haroldo
 de
 Campos)
 \@endanenote 
-\@doanenote {53}
+\@doanenote {49}
 macro:->\versal
 {KHLÉBNIKOV},
 Velimir.
@@ -1689,7 +1646,7 @@ Pissátel',
 p.9.(Tradução
 nossa).
 \@endanenote 
-\@doanenote {54}
+\@doanenote {50}
 macro:->\versal
 {BARROS},
 2010,
@@ -1707,7 +1664,7 @@ de
 vida
 e
 obra}
-\@doanenote {55}
+\@doanenote {51}
 macro:->\versal
 {SCHNAIDERMAN},
 Boris;
@@ -1778,7 +1735,7 @@ um
 pecado
 mortal''.
 \@endanenote 
-\@doanenote {56}
+\@doanenote {52}
 macro:->\versal
 {TSVETÁIEVA},
 M.
@@ -1796,7 +1753,7 @@ op.
 cit.
 p.158.
 \@endanenote 
-\@doanenote {57}
+\@doanenote {53}
 macro:->\versal
 {HEGEL,}
 Georg
@@ -1812,7 +1769,7 @@ Aubier
 Montaigne,
 1965.
 \@endanenote 
-\@doanenote {58}
+\@doanenote {54}
 macro:->\versal
 {PAVESE},
 Cesar.
@@ -1827,7 +1784,7 @@ Einaudi,
 p.
 171.
 \@endanenote 
-\@doanenote {59}
+\@doanenote {55}
 macro:->\versal
 {TSVETÁIEVA},
 Marina.
@@ -1839,7 +1796,7 @@ Triolet).
 Paris,
 1968.
 \@endanenote 
-\@doanenote {60}
+\@doanenote {56}
 macro:->\versal
 {TSVETAIEVA},
 M.
@@ -1852,7 +1809,7 @@ Publish
 House,
 1953.
 \@endanenote 
-\@doanenote {61}
+\@doanenote {57}
 macro:->\emph
 {Marina
 Cvetaeva
@@ -1866,7 +1823,7 @@ Los
 Angeles,
 1966.
 \@endanenote 
-\@doanenote {62}
+\@doanenote {58}
 macro:->\versal
 {TSVETAIEVA},
 M.
@@ -1882,7 +1839,7 @@ Obras
 Literárias,
 1961.
 \@endanenote 
-\@doanenote {63}
+\@doanenote {59}
 macro:->Cf.
 \versal
 {LOTMAN},
@@ -1901,13 +1858,13 @@ Editora
 (Arte),
 1970.
 \@endanenote 
-\@doanenote {64}
+\@doanenote {60}
 macro:->Fink
 Verlag,
 München,
 1971
 \@endanenote 
-\@doanenote {65}
+\@doanenote {61}
 macro:->\emph
 {Marina
 Tsvetayeva
@@ -1922,7 +1879,7 @@ Harmondsworth,
 Middlesex,
 1974
 \@endanenote 
-\@doanenote {66}
+\@doanenote {62}
 macro:->Das
 obras
 que
@@ -1962,7 +1919,7 @@ respectivamente
 e
 1976).
 \@endanenote 
-\@doanenote {67}
+\@doanenote {63}
 macro:->Na
 introdução
 a
@@ -1976,7 +1933,7 @@ Poems},
 op.
 cit.
 \@endanenote 
-\@doanenote {68}
+\@doanenote {64}
 macro:->Cf.
 \versal
 {DONNE},
@@ -1992,7 +1949,7 @@ Toronto:
 Heinemann,
 1961.
 \@endanenote 
-\@doanenote {69}
+\@doanenote {65}
 macro:->De
 agora
 em
@@ -2004,7 +1961,7 @@ de
 nossa
 autoria.
 \@endanenote 
-\@doanenote {70}
+\@doanenote {66}
 macro:->Anteriormente
 a
 reforma
@@ -2028,7 +1985,7 @@ portanto,
 cinco
 letras
 \@endanenote 
-\@doanenote {71}
+\@doanenote {67}
 macro:->Tsvetáieva
 desloca
 o
@@ -2043,7 +2000,7 @@ uma
 alteração
 semântica.
 \@endanenote 
-\@doanenote {72}
+\@doanenote {68}
 macro:->Tradução
 de
 Augusto
@@ -2061,7 +2018,7 @@ op.
 cit.
 p.163.
 \@endanenote 
-\@doanenote {73}
+\@doanenote {69}
 macro:->Tradução
 de
 Haroldo
@@ -2136,7 +2093,7 @@ pensamento
 crítico
 russo
 (1802--1901)}}
-\@doanenote {74}
+\@doanenote {70}
 macro:->(C.
 D.
 A.
@@ -2147,7 +2104,7 @@ ao
 de
 03/06/1984).
 \@endanenote 
-\@doanenote {75}
+\@doanenote {71}
 macro:->MONTESQUIEU
 apud
 TYNIÁNOV,
@@ -2168,7 +2125,7 @@ brasileiro.
 p.
 68
 \@endanenote 
-\@doanenote {76}
+\@doanenote {72}
 macro:->KHLÉBNIKOV,
 Velímir.
 ``Encantação
@@ -2198,7 +2155,7 @@ revisão
 e
 uma
 atualização}
-\@doanenote {77}
+\@doanenote {73}
 macro:->No
 tocante
 à
@@ -2944,7 +2901,7 @@ ao
 pensamento
 mítico.
 \@endanenote 
-\@doanenote {78}
+\@doanenote {74}
 macro:->Como
 demos
 um
@@ -3678,14 +3635,14 @@ arbitrariedade
 do
 signo.
 \@endanenote 
-\@doanenote {79}
+\@doanenote {75}
 macro:->Cf.
 projeto
 \versal
 {BID-USP}
 (1990-1991).
 \@endanenote 
-\@doanenote {80}
+\@doanenote {76}
 macro:->Cf.
 a
 entrevista
@@ -3724,7 +3681,7 @@ final
 desse
 ensaio.
 \@endanenote 
-\@doanenote {81}
+\@doanenote {77}
 macro:->São
 eles,
 respectivamente,
@@ -3767,7 +3724,7 @@ da
 \versal
 {USP}.
 \@endanenote 
-\@doanenote {82}
+\@doanenote {78}
 macro:->Além
 do
 último
@@ -3852,7 +3809,7 @@ na
 filosofia
 contemporânea}.
 \@endanenote 
-\@doanenote {83}
+\@doanenote {79}
 macro:->Ernest
 Cassirer,
 \emph
@@ -3872,7 +3829,7 @@ Erlich
 {op.
 cit})
 \@endanenote 
-\@doanenote {84}
+\@doanenote {80}
 macro:->É
 muito
 importante
@@ -3962,7 +3919,7 @@ Campinas,
 Unicamp,
 1999).
 \@endanenote 
-\@doanenote {85}
+\@doanenote {81}
 macro:->\emph
 {Randbemerkungen
 zur
@@ -3976,14 +3933,14 @@ Rundschau,
 {VII},
 1935.
 \@endanenote 
-\@doanenote {86}
+\@doanenote {82}
 macro:->\emph
 {Op.
 cit}.,
 p.
 309.
 \@endanenote 
-\@doanenote {87}
+\@doanenote {83}
 macro:->Citado
 na
 Introdução
@@ -4002,7 +3959,7 @@ cit.,
 \versal
 {XXI}.
 \@endanenote 
-\@doanenote {88}
+\@doanenote {84}
 macro:->Aqui
 estaria
 um
@@ -4226,7 +4183,7 @@ aproxima
 ao
 ser.
 \@endanenote 
-\@doanenote {89}
+\@doanenote {85}
 macro:->Leia"-se
 o
 livro
@@ -4260,7 +4217,7 @@ de
 São
 Paulo.
 \@endanenote 
-\@doanenote {90}
+\@doanenote {86}
 macro:->Cf.
 R.
 Ceserani,
@@ -4271,7 +4228,7 @@ pós"-moderno},
 p.
 134.
 \@endanenote 
-\@doanenote {91}
+\@doanenote {87}
 macro:->Cf.
 G.
 Vattimo,
@@ -4290,7 +4247,7 @@ Mursia,
 pp.
 14-15.
 \@endanenote 
-\@doanenote {92}
+\@doanenote {88}
 macro:->Cf.
 G.
 Vattimo,
@@ -4324,7 +4281,7 @@ Bródisni,
 nesta
 coletânea.
 \@endanenote 
-\@doanenote {93}
+\@doanenote {89}
 macro:->Cf.
 L.
 Pereyson,
@@ -4363,7 +4320,7 @@ de
 São
 Paulo.
 \@endanenote 
-\@doanenote {94}
+\@doanenote {90}
 macro:->Victor
 Erlich
 refere"-se
@@ -4378,7 +4335,7 @@ in
 of
 Spirit}'''.
 \@endanenote 
-\@doanenote {95}
+\@doanenote {91}
 macro:->Cf.
 ``\emph
 {What
@@ -4388,7 +4345,7 @@ de
 R.
 Jakobson.
 \@endanenote 
-\@doanenote {96}
+\@doanenote {92}
 macro:->A
 partir
 daqui
@@ -4423,7 +4380,7 @@ do
 Estruturalismo
 Francês.
 \@endanenote 
-\@doanenote {97}
+\@doanenote {93}
 macro:->Curiosamente,
 em
 seu
@@ -4450,7 +4407,7 @@ ajudou
 a
 divulgar.
 \@endanenote 
-\@doanenote {98}
+\@doanenote {94}
 macro:->Erlich
 refere"-se
 novamente
@@ -4475,7 +4432,7 @@ conto
 russo
 de
 magia}
-\@doanenote {99}
+\@doanenote {95}
 macro:->(1)
 O
 trecho
@@ -4510,7 +4467,7 @@ Fapesp"-Horizonte,
 p.
 60).
 \@endanenote 
-\@doanenote {100}
+\@doanenote {96}
 macro:->Para
 o
 termo
@@ -4553,7 +4510,7 @@ entenda"-se
 conto
 maravilhoso''
 \@endanenote 
-\@doanenote {101}
+\@doanenote {97}
 macro:->Cf.,
 respectivamente,
 C.
