@@ -15,6 +15,41 @@
 \usepackage{versos}
 \usepackage{gitrevisioninfo}
 
+\usepackage{endnotes}
+\renewcommand{\notesname}{Notas}
+
+\counterwithin*{endnote}{part}
+\counterwithin*{endnote}{chapter}
+
+\let\latexchapter\chapter
+\makeatletter
+\renewcommand\enoteheading{%
+  \setcounter{secnumdepth}{-2}
+  \latexchapter*{\notesname\markboth{NOTES}{}}
+  \mbox{}\par\vskip-\baselineskip
+  \let\@afterindentfalse\@afterindenttrue
+}
+\makeatother
+
+
+\usepackage{xparse}
+
+
+\let\latexchapter\chapter
+
+\RenewDocumentCommand{\chapter}{som}{%
+  \IfBooleanTF{#1}
+    {\latexchapter*{#3}}
+    {\IfNoValueTF{#2}
+       {\latexchapter{#3}}
+       {\latexchapter[#2]{#3}}%
+     \addtoendnotes{\unexpanded{\enotedivision{\subsection}{#3}}}
+    }
+}
+\makeatletter
+\def\enotedivision#1#2{\@ifnextchar\enotedivision{}{#1{#2}}}
+\makeatletter
+
 %\linespread{1.08}
 \usepackage{commands}
 
