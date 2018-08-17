@@ -50,18 +50,34 @@ Foi feito o depósito legal.\\\endgroup
 \pagebreak\raggedleft
 %% Front ---------------------------------------------------------
 % Titulo
+\begin{vplace}[0,6]
+\begin{center}
+{\Large \autor \par\vspace{1.5ex}}
+\smallbreak
 \titulagem
 
-{\Large \autor \par\vspace{1.5ex}}
+\bigbreak
+\bigbreak
+\bigbreak
+\bigbreak
+\bigbreak
+
 \ifdef{\organizador}{{\small {\organizador} (\textit{organização})} \par}{}
 \ifdef{\introdutor}{{\small {\introdutor} (\textit{prefácio})} \par}{}
 \ifdef{\tradutor}{{\small {\tradutor} (\textit{tradução})}\par}{}\vspace{1.5cm}
-
 {{\footnotesize{} \ifdef{\numeroedicao}{\numeroedicao}{1}ª edição} \par}
+
+\bigbreak
+\bigbreak
+\bigbreak
+\bigbreak
+\bigbreak
 
 %logos
 \vfill
 \ifdef{\logo}{\IfFileExists{\logo}{\hfill\includegraphics[width=3cm]{\logo}\hfill\logoum{}\\ São Paulo\_\the\year}}{\logoum\break{} São Paulo\_\the\year}
+\end{center}
+\end{vplace}
 %\includegraphics[width=.4\textwidth,trim=0 0 25 0]{logo.jpg}\\\smallskip
 \par\clearpage\endgroup
 % Resumo -------------------------------------------------------
