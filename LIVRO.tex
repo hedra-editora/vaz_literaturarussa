@@ -14,7 +14,17 @@
 \usepackage{tabelas}
 \usepackage{versos}
 \usepackage{gitrevisioninfo}
-\pagestyle{plain}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[LE,RO]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+\fancypagestyle{chapter}{
+\fancyhf{}
+\fancyfoot[RO]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}}
 
 %\usepackage[utf8]{inputenc}
 \usepackage{MyriadPro}
