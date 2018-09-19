@@ -54,6 +54,16 @@
   {20pt}
   {\centering}
 
+%-----------------------------------PARA INCLUIR IMAGEM NA PART
+\setlength{\epigraphwidth}{\textwidth}
+\titleformat{\part}[display]
+{\Huge\bfseries\BebasNeue\thispagestyle{epigraph}}
+{\partname\ \thepart}
+{20pt}
+{\Huge}
+\titlespacing*{\part}{0pt}{0pt}{40pt}
+%----------------------------------------
+
 \usepackage{footmisc}
 
 \renewcommand*\footnoterule{}
